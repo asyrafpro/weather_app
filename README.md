@@ -117,11 +117,13 @@ Replace `'YOUR_API_KEY'` with your actual OpenWeather API key.
 
 ## Screenshots
 ### 🌞 **Light Mode**
-![weather_screen](https://github.com/user-attachments/assets/602b3fe4-9076-4ac7-8a99-3722d80121ed)
+![weather_screen](https://github.com/user-attachments/assets/82820159-cf18-4c49-8eda-cbd84804d98d)
+
 
 
 ### 🌙 **Dark Mode**
-![dark_mode](https://github.com/user-attachments/assets/6e96572a-0c54-4fcd-b17c-4ebe19c9ceb2)
+![dark_mode](https://github.com/user-attachments/assets/a77f7dc8-5ba6-4cc0-9b19-354956c7656c)
+
 
 ---
 
